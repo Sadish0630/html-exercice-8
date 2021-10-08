@@ -1,0 +1,38 @@
+body
+{
+    background-image: url(image_tablier2.png);
+    background-size: 750px;
+}
+.margin
+{
+    margin-top: 50px;
+    text-align: center;
+}
+.image
+{
+    width: 200px;
+    vertical-align: text-bottom;
+}
+.italic
+{
+    font-style: italic;
+}
+#red
+{
+    color: red;
+}
+aside
+{
+    margin-right: 2px;
+    width: 20%;
+    float: right;
+    text-align: left;
+}
+span
+{
+    font-weight: bold;
+}
+#aligner
+{
+    text-align: justify;
+}
